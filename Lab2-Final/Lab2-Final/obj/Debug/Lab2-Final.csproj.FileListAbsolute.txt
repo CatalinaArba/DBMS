@@ -1,0 +1,11 @@
+E:\Anul2-Semestrul4\DB\Lab2-Final\Lab2-Final\bin\Debug\Lab2-Final.exe.config
+E:\Anul2-Semestrul4\DB\Lab2-Final\Lab2-Final\bin\Debug\Lab2-Final.exe
+E:\Anul2-Semestrul4\DB\Lab2-Final\Lab2-Final\bin\Debug\Lab2-Final.pdb
+E:\Anul2-Semestrul4\DB\Lab2-Final\Lab2-Final\obj\Debug\Lab2-Final.csproj.AssemblyReference.cache
+E:\Anul2-Semestrul4\DB\Lab2-Final\Lab2-Final\obj\Debug\Lab2-Final.csproj.SuggestedBindingRedirects.cache
+E:\Anul2-Semestrul4\DB\Lab2-Final\Lab2-Final\obj\Debug\Lab2_Final.Form1.resources
+E:\Anul2-Semestrul4\DB\Lab2-Final\Lab2-Final\obj\Debug\Lab2_Final.Properties.Resources.resources
+E:\Anul2-Semestrul4\DB\Lab2-Final\Lab2-Final\obj\Debug\Lab2-Final.csproj.GenerateResource.cache
+E:\Anul2-Semestrul4\DB\Lab2-Final\Lab2-Final\obj\Debug\Lab2-Final.csproj.CoreCompileInputs.cache
+E:\Anul2-Semestrul4\DB\Lab2-Final\Lab2-Final\obj\Debug\Lab2-Final.exe
+E:\Anul2-Semestrul4\DB\Lab2-Final\Lab2-Final\obj\Debug\Lab2-Final.pdb

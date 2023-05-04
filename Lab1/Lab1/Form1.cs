@@ -10,7 +10,6 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
-using System.Configuration;
 
 namespace Lab1
 {
@@ -108,8 +107,10 @@ namespace Lab1
         }
         string getConnectionString()
         {
-            //Connection string pointing to database "Clothing Store 2"
             return "Data Source=LAPTOP-NI9TIBLO\\SQLEXPRESS;" + "Initial Catalog=Clothing Store 2;Integrated Security=true;";
+
+            //Connection string pointing to database "Clothing Store 2"
+            //return System.Configuration.ConfigurationManager.ConnectionStrings["connection_string"].ConnectionString;
         }
         private bool ValidateRow(DataGridViewRow row)
         {
